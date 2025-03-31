@@ -17,10 +17,6 @@ Image2Speech is a tool designed to assist visually impaired individuals by conve
     ```bash
     cd Image2Speech
     ```
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 1. Run the application:
@@ -33,15 +29,15 @@ Image2Speech is a tool designed to assist visually impaired individuals by conve
 ## Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature-name
-    ```
-3. Commit your changes and push to your fork.
-4. Open a pull request.
+2. Commit your changes and push to your fork.
+3. Open a pull request.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For questions or feedback, please contact us at support@example.com.
+
+## Conda Version: 23.9.0
+## OpenAI Version: 1.66.3
+## Transformers Version: 4.49.0
