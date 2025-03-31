@@ -17,7 +17,16 @@ Image2Speech is a tool designed to assist visually impaired individuals by conve
     ```bash
     cd Image2Speech
     ```
+    ## Images
+    Add the following images to the `assets` folder for reference:
 
+    1. **Logo**: A logo representing the project.
+    2. **Workflow Diagram**: A visual representation of the Image2Speech process.
+
+    Example usage in markdown:
+    ```markdown
+    ![Vision Your Eyes](assets/app.png)
+    ```
 ## Usage
 1. Run the application:
     ```bash
